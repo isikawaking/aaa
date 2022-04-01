@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="d-flex justify-content-between mb-3">
-      <h2>AAAAAAAAAAAA<span class="badge rounded-pill bg-danger">New</span></h2>
+      <h2>To-Do List<span class="badge rounded-pill bg-danger">New</span></h2>
       <button 
         class="btn btn-primary"
         @click="moveToCreatePage"

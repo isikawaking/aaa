@@ -26,7 +26,7 @@
             Delete
           </button>
           <button type="button" class="btn btn-primary">Middle</button>
-  <button type="button" class="btn btn-success">Right</button>
+          <button type="button" class="btn btn-success">Right</button>
         </div>
         
       </div>
