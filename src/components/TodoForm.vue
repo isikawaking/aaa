@@ -33,6 +33,7 @@
         <div class="form-group">
           <label>head</label>
           <textarea v-model="todo.body" class="form-control" cols="30" rows="10"></textarea>
+
         </div>
       </div>
     </div>
