@@ -31,7 +31,7 @@
       </div>
       <div class="col-12">
         <div class="form-group">
-          <label>Body</label>
+          <label>head</label>
           <textarea v-model="todo.body" class="form-control" cols="30" rows="10"></textarea>
         </div>
       </div>
