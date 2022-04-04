@@ -1,5 +1,5 @@
 <template>
-  <h3 class="mt-4">Vue3 기초 익히기 - Composition Api</h3>
+  <h3 class="mt-4">Vue3  - Composition Api</h3>
 </template>
 
 <script>
